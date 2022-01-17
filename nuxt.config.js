@@ -1,6 +1,6 @@
 export default {
   router: {
-    base: '/ghp'
+    base: '/ghp/'
   },
   modules: [
     '@nuxt/content'
